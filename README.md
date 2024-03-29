@@ -51,4 +51,4 @@
 
 # Netflix_GPT
 
-Episode 15 - 48:48
+Episode 15 - 2.59
