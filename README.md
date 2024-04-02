@@ -36,6 +36,8 @@
 - TMDB Image CDN URL
 - Made the Browse page amazing with Tailwind CSS
 - usePopularMivies Custom Hook
+- GPT Search Page 
+- (**) Multi-language feature in our App
 
 # Features
 
@@ -57,4 +59,4 @@
 
 # Netflix_GPT
 
-Episode 15 - 2.59
+Episode 16 - 52.56 - Creating Drop Down 
